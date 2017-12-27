@@ -1,0 +1,38 @@
+body{
+    margin:0;
+    padding:0;
+    font-family: 'Montserrat', sans-serif;
+}
+.container{
+    width:960px;
+    margin: 0 auto;
+}
+.menubar{
+    height: 50px;
+    width: 100%;
+    background: #fff;
+    box-shadow: 0 0 10px #666666;
+}
+
+.menubar h1{
+    margin:0;
+    font-size: 24px;
+    font-weight: normal;
+    padding-top:10px;
+    width: 20%;
+    float: left;
+}
+
+.menubar ul.menu{
+    list-style: none;
+    width:80%;
+    
+
+}
+.menubar ul.menu li a{
+    float:right;
+    margin: 10px;
+    padding-top:10px;
+    text-decoration:none;
+    
+}
